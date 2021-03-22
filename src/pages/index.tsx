@@ -8,7 +8,9 @@ export default function Index() {
     <>
       <Header titlePre="Home" />
       <div className={sharedStyles.layout}>
-         coming soon, @jayhxmo
+        <center>
+          coming soon, <a href="https://twitter.com/jayhxmo" target="_blank">@jayhxmo</a>
+        </center>
       </div>
     </>
   )
